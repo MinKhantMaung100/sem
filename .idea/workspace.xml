@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="962d4c16-f606-4f57-903f-a253563ff35b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/napier/sem/App.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="MinKhantMaung100 &lt;40437531@live.napier.ac.uk&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Sora\IdeaProjects\seMethods\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WR2ZL2UyrtY1mnogIGEAEcWdwE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="962d4c16-f606-4f57-903f-a253563ff35b" name="Default Changelist" comment="" />
+      <created>1579098145054</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579098145054</updated>
+      <workItem from="1579098154855" duration="1391000" />
+    </task>
+    <task id="LOCAL-00001" summary="First commit, adding initial files.">
+      <created>1579099444180</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579099444180</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit, adding initial files." />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit, adding initial files." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="72" key="#Project_Structure" timestamp="1579099595671">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="72" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1579099595671" />
+    <state x="393" y="8" key="CommitChangelistDialog2" timestamp="1579099635768">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="393" y="8" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1579099635768" />
+    <state x="548" y="168" key="FileChooserDialogImpl" timestamp="1579098794398">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1579098794398" />
+    <state x="277" y="59" key="SettingsEditor" timestamp="1579099584375">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="277" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1579098799990" />
+    <state x="277" y="59" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1579099584375" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1579099451098">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1579099451098" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1579098153916">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1579098153916" />
+    <state x="490" y="205" key="git4idea.merge.GitPullDialog" timestamp="1579099288213">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="490" y="205" key="git4idea.merge.GitPullDialog/0.0.1536.864@0.0.1536.864" timestamp="1579099288213" />
+  </component>
+</project>
